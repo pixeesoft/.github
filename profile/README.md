@@ -1,6 +1,6 @@
 ### [Peyda Track](https://www.peydatrack.com)
 
-GPS collar for your dog
+GPS tracker for the collar
 
 ### [pixee.tv](https://pixee.tv)
 
