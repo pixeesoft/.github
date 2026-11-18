@@ -10,6 +10,10 @@ Cameras you already own
 
 For TCG clubs and game stores
 
+### [Reliquary](https://reliquary.gg)
+
+Magic: The Gathering collection manager
+
 <br>
 
 If you have a question, reach out to [hello@pixeesoft.dev](mailto:hello@pixeesoft.dev).
